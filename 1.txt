@@ -11,4 +11,8 @@ Modif7
 Modif8
 =======
 Modif9
+<<<<<<< HEAD
 >>>>>>> a2c272c (Commit 9)
+=======
+Modif10
+>>>>>>> 07bbe99 (Commit 10)
