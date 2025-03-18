@@ -6,5 +6,9 @@ Modif 5
 Modif 2
 Modif 3
 
+<<<<<<< HEAD
 Modif7
 Modif8
+=======
+Modif9
+>>>>>>> a2c272c (Commit 9)
